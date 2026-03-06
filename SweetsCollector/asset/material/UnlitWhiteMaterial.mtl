@@ -1,0 +1,17 @@
+# UnlitWhiteMaterial.mtl
+name		= WhiteUnlit
+vertex_shader	= shader\\basicLightingVS.cso
+pixel_shader	= shader\\basicLightingPS.cso
+texture		= none
+texture_enable	= 0
+
+# マテリアル色
+ambient		= 0.5,0.5,0.5,1.0
+diffuse		= 0.0,1.0,0.0,1.0
+specular	= 0.1,0.1,0.1,1.0
+emission        = 0.1,0.1,0.1,1.0
+shininess	= 0.1
+
+# UV
+uv_scale        = 1.0,1.0
+uv_offset       = 0.0,0.0

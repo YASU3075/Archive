@@ -1,0 +1,17 @@
+# CountDownLabelMaterial.mtl
+name		= CountDownLabel
+vertex_shader	= shader\\CircleWipeVS.cso
+pixel_shader	= shader\\CircleWipePS.cso
+texture		= asset\\texture\\white.png
+texture_enable	= 1
+
+# マテリアル色
+ambient		= 0.5,0.5,0.5,1.0
+diffuse		= 0.0,0.0,0.0,1.0
+specular	= 0.1,0.1,0.1,1.0
+emission        = 0.1,0.1,0.1,1.0
+shininess	= 0.1
+
+# UV
+uv_scale        = 1.0,1.0
+uv_offset       = 0.0,0.0

@@ -1,0 +1,16 @@
+# OutlineMaterial.mtl
+name		= Outline
+vertex_shader	= shader\\OutlineVS.cso
+pixel_shader	= shader\\OutlinePS.cso
+texture		= none
+texture_enable	= 0
+
+# マテリアル色
+ambient		= 1.0,1.0,1.0,1.0
+diffuse		= 1.0,1.0,1.0,1.0
+specular	= 0.1,0.1,0.1,1.0
+shininess	= 0.0
+
+# UV
+uv_scale        = 1.0,1.0
+uv_offset       = 0.0,0.0

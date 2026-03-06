@@ -1,0 +1,16 @@
+# ResultMaterial.mtl
+name		= ResultUnlit
+vertex_shader	= shader\\unlitTextureVS.cso
+pixel_shader	= shader\\unlitTexturePS.cso
+texture		= asset\\texture\\result.png
+texture_enable	= 1
+
+# マテリアル色
+ambient		= 0.1,0.1,0.1,1.0
+diffuse		= 1.0,1.0,1.0,1.0
+specular	= 0.1,0.1,0.1,1.0
+shininess	= 0.0
+
+# UV
+uv_scale        = 1.0,1.0
+uv_offset       = 0.0,0.0
