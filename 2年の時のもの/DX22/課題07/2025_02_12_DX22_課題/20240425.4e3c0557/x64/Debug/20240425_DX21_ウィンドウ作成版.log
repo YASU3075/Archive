@@ -1,0 +1,21 @@
+﻿  CollisionEx.cpp
+  main.cpp
+  model.cpp
+C:\Users\ths30546\Desktop\2025_02_12_DX22_課題\model.cpp(96,19): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  polygon.cpp
+  renderer.cpp
+C:\Users\ths30546\Desktop\2025_02_12_DX22_課題\renderer.cpp(89,11): warning C4101: 'worldViewProjection': ローカル変数は 1 度も使われていません。
+  sprite.cpp
+  texture.cpp
+  コードを生成中...
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexImage.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC4BC5.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC6HBC7.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  20240425_DX21_ウィンドウ作成版.vcxproj -> C:\Users\ths30546\Desktop\2025_02_12_DX22_課題\x64\Debug\20240425_DX21_ウィンドウ作成版.exe

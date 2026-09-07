@@ -1,0 +1,2 @@
+CharacterクラスをFighterクラスに継承してます。
+Fighterクラスを基底クラスとしてWarrior、Theif、Wizard、Monkクラスがポリモーフィズムです。

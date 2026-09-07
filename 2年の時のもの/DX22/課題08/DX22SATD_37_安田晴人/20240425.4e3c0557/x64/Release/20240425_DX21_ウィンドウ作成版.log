@@ -1,0 +1,33 @@
+﻿  Box.cpp
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(315,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(316,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(447,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(448,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(484,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\20241031DX22_先生の\Box.cpp(485,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Camra.cpp
+  Game.cpp
+  keyboard.cpp
+C:\Users\ths30546\Desktop\20241031DX22_先生の\debugPrintf.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'keyboard.cpp' をコンパイルしています)
+  
+  main.cpp
+  Manager.cpp
+  renderer.cpp
+C:\Users\ths30546\Desktop\20241031DX22_先生の\renderer.cpp(77,11): warning C4101: 'worldViewProjection': ローカル変数は 1 度も使われていません。
+  sprite.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexImage.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC4BC5.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC6HBC7.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  20240425_DX21_ウィンドウ作成版.vcxproj -> C:\Users\ths30546\Desktop\20241031DX22_先生の\x64\Release\20240425_DX21_ウィンドウ作成版.exe
