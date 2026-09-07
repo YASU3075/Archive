@@ -1,0 +1,8 @@
+﻿  block.cpp
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(114,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(115,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(119,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(120,20): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(126,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\サンプルアクションゲーム\block.cpp(131,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  10_sampleActionGamePrototype.vcxproj -> C:\Users\ths30546\Desktop\サンプルアクションゲーム\x64\Debug\10_sampleActionGamePrototype.exe

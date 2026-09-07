@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(694): warning C4311: '型キャスト': ポインターを 'opensound::<unnamed-type-m> *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(694): warning C4302: '型キャスト': 'opensound::<unnamed-type-m> *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(699,17): warning C4311: '型キャスト': ポインターを '__conioex_h_SoundInfo *' から 'int' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(699,17): warning C4302: '型キャスト': '__conioex_h_SoundInfo *' から 'int' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(717,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(743,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(763,61): warning C4311: '型キャスト': ポインターを 'MCI_PLAY_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(763,61): warning C4302: '型キャスト': 'MCI_PLAY_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(781,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(806,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(811): warning C4311: '型キャスト': ポインターを 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(811): warning C4302: '型キャスト': 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(832,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(842): warning C4311: '型キャスト': ポインターを 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(842): warning C4302: '型キャスト': 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(874,39): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(885,64): warning C4311: '型キャスト': ポインターを 'MCI_DGV_SETAUDIO_PARMS *' から 'DWORD' へ切り詰めます。
+C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\conioex.h(885,64): warning C4302: '型キャスト': 'MCI_DGV_SETAUDIO_PARMS *' から 'DWORD' へ切り詰めます。
+  player.cpp
+  コードを生成中...
+  10_sampleActionGamePrototype.vcxproj -> C:\Users\ths30546\Desktop\60fpsバックアップ集\サンプルアクションゲーム-移動\x64\Debug\10_sampleActionGamePrototype.exe

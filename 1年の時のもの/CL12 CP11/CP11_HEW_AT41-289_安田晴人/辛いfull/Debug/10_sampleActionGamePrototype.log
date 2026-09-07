@@ -1,0 +1,96 @@
+﻿  bat.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(116,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(121,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(222,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(262,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(352,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(357,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(459,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(499,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(676,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(676,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(678,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(678,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(680,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(680,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(687,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(687,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(698,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(698,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(709,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(709,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(775,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(775,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(781,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(781,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(787,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(787,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(798,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(798,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(812,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(812,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(826,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(826,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(838,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(838,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(840,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(840,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(842,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(842,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(849,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(849,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(860,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(860,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(871,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\bat.cpp(871,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  bullet.cpp
+  countdown.cpp
+  enemy.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(358,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(359,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(363,22): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(364,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(370,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(371,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(375,22): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(376,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(472,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(473,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(477,22): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(478,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(484,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(485,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(489,22): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemy.cpp(490,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  enemybullet.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(179,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(180,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(184,21): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(185,20): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(192,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\enemybullet.cpp(197,20): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  explanation.cpp
+  explosion.cpp
+  field.cpp
+  game.cpp
+  load.cpp
+  main.cpp
+  player.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(148,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(153,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(160,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(165,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(215,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(216,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(220,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(221,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(228,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\player.cpp(233,18): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  ranking.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\ranking.cpp(84,12): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  result.cpp
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\result.cpp(229,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\result.cpp(267,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  title.cpp
+  コードを生成中...
+  10_sampleActionGamePrototype.vcxproj -> C:\Users\ths30546\Desktop\CP11_HEW_AT41-289_安田晴人\辛いfull\Debug\10_sampleActionGamePrototype.exe
